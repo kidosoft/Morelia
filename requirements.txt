@@ -1,5 +1,5 @@
 certifi==2020.12.5
-chardet==3.0.4
+chardet==4.0.0
 idna==2.9
 parse==1.15.0
 requests==2.23.0
